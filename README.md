@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Renato 👨‍💻
+
+💻 Python • Web Development • Networking • Linux • Automation
+
+Currently working with network infrastructure at an ISP while building projects involving backend development, APIs, AI and automation.
+
+🚀 Interested in:
+- Network infrastructure
+- Backend development
+- AI assistants
+- Linux environments
+- Reverse engineering
+
+
