@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.linkedin.com/in/renato-oliveira-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+
 # Renato 👨‍💻
 
 💻 Python • Web Development • Networking • Linux • Automation
@@ -27,4 +31,4 @@ Currently working with network infrastructure at an ISP while building projects 
 - Linux environments
 - Reverse engineering
 
-
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,mysql,bash,linux,docker,git,django,figma)
